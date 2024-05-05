@@ -24,4 +24,4 @@
 <img src="auc-performance-no-demographics.png">
 
 <p> AUC of predictive model from businesses with disclosed demographic information</p>
-![image](AUC Performance - Demographics.png)
+<img src="auc-performance-demographics">
