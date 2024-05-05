@@ -21,7 +21,7 @@
 
 <h2> Model Performance Samples</h2>
 <p> AUC of predictive model from all businesses</p>
-![image](AUC Performance - No Demographics)
+<img src="auc-performance-no-demographics.png">
 
 <p> AUC of predictive model from businesses with disclosed demographic information</p>
 ![image](AUC Performance - Demographics.png)
