@@ -21,7 +21,7 @@
 
 <h2> Model Performance Samples</h2>
 <p> AUC of predictive model from all businesses</p>
-![image](https://github.com/andydang2709/DataThink-2024/assets/59303906/58be6e8a-7c5a-4e0f-b6d0-950528d628b3)
+![image](AUC Performance - No Demographics.png)
 
 <p> AUC of predictive model from businesses with disclosed demographic information</p>
-![image](https://github.com/andydang2709/DataThink-2024/assets/59303906/08023112-7dd2-496d-b84a-de82daf080ad)
+![image](AUC Performance - Demographics.png)
