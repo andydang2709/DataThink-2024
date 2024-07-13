@@ -1,4 +1,4 @@
-<h1 align="center">DataThink 2024 - Better Business Bureau</h1>
+<h1 align="center">Better Business Bureau - Accreditation Analysis</h1>
 <h2>Client Outline</h2>
 <p>The Better Business Bureau (BBB) aims to provide businesses and customers, alike, a source for discovering ethical businesses in the greater Atlanta area. They provide services for small businesses to help establish themselves within their communities as credible providers of services and goods and, ultimately, thrive. To take advantage of these services, businesses need to become accredited with the BBB – a seal of approval that the business is credible in their offerings.</p>
 
